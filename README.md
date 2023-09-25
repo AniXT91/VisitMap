@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 
 
 ScreenShots:
+![image](https://github.com/AniXT91/VisitMap/assets/139282374/88844b61-180a-4aa9-b3f1-5cb7f35d7312)
